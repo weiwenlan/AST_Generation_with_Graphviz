@@ -8,3 +8,6 @@
 
 # Usage
 `python GenerateAST.py Filename`
+
+# Demo 
+https://weiwenlan.github.io/single-file-graph-test/
